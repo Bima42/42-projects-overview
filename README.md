@@ -36,10 +36,6 @@ Be careful, some projects may not be up to date with the latest 42 program.
     <img src="./resources/projects/push_swap.jpg" alt="push_swap"/>
 </a>
 
-<a href="https://github.com/Bima42/minitalk" target="_blank">
-    <img src="./resources/projects/minitalk.jpg" alt="minitalk"/>
-</a>
-
 <a href="https://github.com/Bima42/so_long" target="_blank">
     <img src="./resources/projects/so_long.jpg" alt="so_long"/>
 </a>
