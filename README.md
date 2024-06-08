@@ -29,9 +29,9 @@ It's designed to progressively unlock more advanced projects, organized into con
 - After finishing the common core, students can choose from various specialized tracks based on their interests and career goals.
 
 ## My Common Core Projects
-Be careful, some projects may not be up to date with the latest 42 program.
+⚠️ **BE CAREFUL, SOME PROJECTS MAY NOT BE UP TO DATE WITH THE LATEST 42 PROGRAM.** ⚠️
 
-##### **Circle 2:**
+#### **Circle 2:**
 <a href="https://github.com/Bima42/push_swap" target="_blank">
     <img src="./resources/projects/push_swap.jpg" alt="push_swap"/>
 </a>
@@ -40,7 +40,7 @@ Be careful, some projects may not be up to date with the latest 42 program.
     <img src="./resources/projects/so_long.jpg" alt="so_long"/>
 </a>
 
-##### **Circle 3:**
+#### **Circle 3:**
 <a href="https://github.com/Bima42/minishell" target="_blank">
     <img src="./resources/projects/minishell.jpg" alt="minishell"/>
 </a>
@@ -49,7 +49,7 @@ Be careful, some projects may not be up to date with the latest 42 program.
     <img src="./resources/projects/philosophers.jpg" alt="philosophers"/>
 </a>
 
-##### **Circle 4:**
+#### **Circle 4:**
 <a href="https://github.com/Bima42/cub3d" target="_blank">
     <img src="./resources/projects/cub3d.jpg" alt="cub3d"/>
 </a>
@@ -62,7 +62,7 @@ Be careful, some projects may not be up to date with the latest 42 program.
     <img src="./resources/projects/cpp.jpg" alt="cpp_modules"/>
 </a>
 
-##### **Circle 5:**
+#### **Circle 5:**
 <a href="https://github.com/Bima42/inception" target="_blank">
     <img src="./resources/projects/inception.jpg" alt="inception"/>
 </a>
@@ -72,13 +72,13 @@ Be careful, some projects may not be up to date with the latest 42 program.
 </a>
 
 
-##### **Circle 6:**
+#### **Circle 6:**
 <a href="https://github.com/Bima42/ft_transcendence" target="_blank">
     <img src="./resources/projects/ft_transcendence.jpg" alt="ft_transcendence"/>
 </a>
 
 
-##### **Exam Rank:**
+#### **Exam Rank:**
 <a href="https://github.com/Bima42/42-exam-rank" target="_blank">
     <img src="./resources/projects/rank_02.jpg" alt="rank_02"/>
 </a>
