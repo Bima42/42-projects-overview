@@ -1,10 +1,10 @@
 # 42-projects-overview
 This repository contains a list of all the projects I have done at 42 Lausanne.
 
-## **Curses Overview**
+## **Program Overview**
 <img src="resources/organization_chart.png" alt="organization_chart"/>
 
-The 42 School curses is structured around a central project, `libft`, which serves as the entry point for students. 
+The 42 School program is structured around a central project, `libft`, which serves as the entry point for students. 
 It's designed to progressively unlock more advanced projects, organized into concentric circles that represent different levels of achievement and complexity.
 
 - Blue circle are **validated projects**.
@@ -29,21 +29,29 @@ It's designed to progressively unlock more advanced projects, organized into con
 - After finishing the common core, students can choose from various specialized tracks based on their interests and career goals.
 
 ## My Common Core Projects
-Be careful, some projects may not be up to date with the latest 42 curses.
-##### **Circle 6:**
-<a href="https://github.com/Bima42/ft_transcendence" target="_blank">
-    <img src="./resources/projects/ft_transcendence.jpg" alt="ft_transcendence"/>
+Be careful, some projects may not be up to date with the latest 42 program.
+
+##### **Circle 2:**
+<a href="https://github.com/Bima42/push_swap" target="_blank">
+    <img src="./resources/projects/push_swap.jpg" alt="push_swap"/>
 </a>
 
-##### **Circle 5:**
-<a href="https://github.com/Bima42/inception" target="_blank">
-    <img src="./resources/projects/inception.jpg" alt="inception"/>
+<a href="https://github.com/Bima42/minitalk" target="_blank">
+    <img src="./resources/projects/minitalk.jpg" alt="minitalk"/>
 </a>
 
-<a href="https://github.com/Bima42/webserv" target="_blank">
-    <img src="./resources/projects/webserv.jpg" alt="webserv"/>
+<a href="https://github.com/Bima42/so_long" target="_blank">
+    <img src="./resources/projects/so_long.jpg" alt="so_long"/>
 </a>
 
+##### **Circle 3:**
+<a href="https://github.com/Bima42/minishell" target="_blank">
+    <img src="./resources/projects/minishell.jpg" alt="minishell"/>
+</a>
+
+<a href="https://github.com/Bima42/philosophers" target="_blank">
+    <img src="./resources/projects/philosophers.jpg" alt="philosophers"/>
+</a>
 
 ##### **Circle 4:**
 <a href="https://github.com/Bima42/cub3d" target="_blank">
@@ -58,27 +66,21 @@ Be careful, some projects may not be up to date with the latest 42 curses.
     <img src="./resources/projects/cpp.jpg" alt="cpp_modules"/>
 </a>
 
-##### **Circle 3:**
-<a href="https://github.com/Bima42/minishell" target="_blank">
-    <img src="./resources/projects/minishell.jpg" alt="minishell"/>
+##### **Circle 5:**
+<a href="https://github.com/Bima42/inception" target="_blank">
+    <img src="./resources/projects/inception.jpg" alt="inception"/>
 </a>
 
-<a href="https://github.com/Bima42/philosophers" target="_blank">
-    <img src="./resources/projects/philosophers.jpg" alt="philosophers"/>
+<a href="https://github.com/Bima42/webserv" target="_blank">
+    <img src="./resources/projects/webserv.jpg" alt="webserv"/>
 </a>
 
-##### **Circle 2:**
-<a href="https://github.com/Bima42/push_swap" target="_blank">
-    <img src="./resources/projects/push_swap.jpg" alt="push_swap"/>
+
+##### **Circle 6:**
+<a href="https://github.com/Bima42/ft_transcendence" target="_blank">
+    <img src="./resources/projects/ft_transcendence.jpg" alt="ft_transcendence"/>
 </a>
 
-<a href="https://github.com/Bima42/minitalk" target="_blank">
-    <img src="./resources/projects/minitalk.jpg" alt="minitalk"/>
-</a>
-
-<a href="https://github.com/Bima42/so_long" target="_blank">
-    <img src="./resources/projects/so_long.jpg" alt="so_long"/>
-</a>
 
 ##### **Exam Rank:**
 <a href="https://github.com/Bima42/42-exam-rank" target="_blank">
